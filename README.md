@@ -5,9 +5,10 @@ Esse projeto é de caráter temporário e uma força tarefa para traduzir o atua
 A estrutura de pastas e arquivos aqui dispostas simulam o path da URL onde os textos se encontram para a tradução.
 
 Ex.: "en" indica para qual língua o português deva ser traduzido.
-
+~~~~
 Git:                     VTEX:
 admin -> site -> Anexo = https://{{accountname}}.vtexcommercestable.com.br/admin/Site/Anexo.aspx
+~~~~
 
 ### Como traduzir uma página?
 
@@ -17,9 +18,10 @@ admin -> site -> Anexo = https://{{accountname}}.vtexcommercestable.com.br/admin
 4. Traduza os valores
 
 Ex.:
-
+~~~~
 Git:                          VTEX:
 admin -> site -> Categories = https://{{accountname}}.vtexcommercestable.com.br/admin/Site/Categories.aspx
+~~~~
 ~~~~
 {
 	"category-page":{
