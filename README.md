@@ -2,7 +2,7 @@
 
 Esse projeto é de caráter temporário e uma força tarefa para traduzir o atual Admin para a língua inglesa. 
 
-A estrutura de pastas e arquivos aqui dispostas simulam o path da URL onde os textos se encontram para a tradução.
+A estrutura de pastas e arquivos aqui dispostas simulam o path da URL onde as pages com seus textos se encontram na plataforma para a tradução.
 
 Ex.: "en" indica para qual língua o português deva ser traduzido.
 ~~~~
