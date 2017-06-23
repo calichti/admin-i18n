@@ -43,11 +43,11 @@ admin -> site -> Categories = https://{{accountname}}.vtexcommercestable.com.br/
 		"title": "Category - Categories Management",
 		"breadcrumb-inicial-page": "Inicial page",
 		"breadcrumb-product-management": "Product management",
-		"breadcrumb-categories": "Categories"
+		"breadcrumb-categories": "Categories",
 		"button-hide-all": "Hide all",
 		"button-show-all": "Show all",
 		"search-text": "Search category",
-		"category-id-zero": "Categories",
+		"category-id-zero": "Categories"
 	}
 }
 ~~~~
