@@ -1,1 +1,27 @@
-
+{
+   "xmlform-page":{
+		"title": "Novo XML",
+		"breadcrumb-initial-page": "Página Inicial",
+		"breadcrumb-marketing": "marketing",
+		"breadcrumb-xml-collection": "xml de coleções",
+    "breadcrumb-new-xml": "novo xml",
+		"warning-top": "Pouse o mouse sobre um item para exibir suas informações.
+- Os textos digitados estarão sujeitos a validações.",
+		"xml-type": "Tipo de XML",
+		"combobox-xml-type-value-open": "XML Livre (padrão)",
+    "combobox-xml-type-value-open": "XML Livre (padrão)",
+		"category-id-zero": "Categorias"
+	}
+}
+{
+	"category-page":{
+		"title": "Category - Categories Management",
+		"breadcrumb-initial-page": "Initial page",
+		"breadcrumb-product-management": "Product management",
+		"breadcrumb-categories": "Categories",
+		"button-hide-all": "Hide all",
+		"button-show-all": "Show all",
+		"search-text": "Search category",
+		"category-id-zero": "Categories"
+	}
+}
