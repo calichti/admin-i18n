@@ -27,15 +27,11 @@ admin -> site -> Categories = https://{{accountname}}.vtexcommercestable.com.br/
 {
 	"category-page":{
 		"title": "Categoria - Administração de Categorias",
-		"breadcrumb": {
-			"inicial-page": "Página Inicial",
-			"product-management": "Cadastro de produtos",
-			"categories": "categorias"
-		},
-		"button":{
-			"hide-all": "Recolher Todos",
-			"show-all": "Expandir Todos"
-		},
+		"breadcrumb-inicial-page": "Página Inicial",
+		"breadcrumb-product-management": "Cadastro de produtos",
+		"breadcrumb-categories": "categorias",
+		"button-hide-all": "Recolher Todos",
+		"button-show-all": "Expandir Todos",
 		"search-text": "Pesquisar categoria",
 		"category-id-zero": "Categorias"
 	}
@@ -45,17 +41,13 @@ admin -> site -> Categories = https://{{accountname}}.vtexcommercestable.com.br/
 {
 	"category-page":{
 		"title": "Category - Categories Management",
-		"breadcrumb": {
-			"inicial-page": "Inicial page",
-			"breadcrumb-product-management": "Product management",
-			"breadcrumb-categories": "Categories"
-		},
-		"button": {
-			"hide-all": "Hide all",
-			"show-all": "Show all"
-		},
+		"breadcrumb-inicial-page": "Inicial page",
+		"breadcrumb-product-management": "Product management",
+		"breadcrumb-categories": "Categories"
+		"button-hide-all": "Hide all",
+		"button-show-all": "Show all",
 		"search-text": "Search category",
-		"category-id-zero": "Categories"
+		"category-id-zero": "Categories",
 	}
 }
 ~~~~
