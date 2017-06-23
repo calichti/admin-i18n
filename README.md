@@ -21,7 +21,7 @@ Ex.:
 
 ~~~~
 Git:                          VTEX:
-[admin -> site -> Categories](https://github.com/vtex/admin-i18n/blob/master/en/admin/Site/Categories/) = https://{{accountname}}.vtexcommercestable.com.br/admin/Site/Categories.aspx
+admin -> site -> Categories = https://{{accountname}}.vtexcommercestable.com.br/admin/Site/Categories.aspx
 ~~~~
 ~~~~
 {
