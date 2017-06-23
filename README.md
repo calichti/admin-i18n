@@ -27,7 +27,7 @@ admin -> site -> Categories = https://{{accountname}}.vtexcommercestable.com.br/
 {
 	"category-page":{
 		"title": "Categoria - Administração de Categorias",
-		"breadcrumb-inicial-page": "Página Inicial",
+		"breadcrumb-initial-page": "Página Inicial",
 		"breadcrumb-product-management": "Cadastro de produtos",
 		"breadcrumb-categories": "categorias",
 		"button-hide-all": "Recolher Todos",
@@ -41,7 +41,7 @@ admin -> site -> Categories = https://{{accountname}}.vtexcommercestable.com.br/
 {
 	"category-page":{
 		"title": "Category - Categories Management",
-		"breadcrumb-inicial-page": "Inicial page",
+		"breadcrumb-initial-page": "Initial page",
 		"breadcrumb-product-management": "Product management",
 		"breadcrumb-categories": "Categories",
 		"button-hide-all": "Hide all",
