@@ -12,7 +12,7 @@ admin -> site -> Anexo = https://{{accountname}}.vtexcommercestable.com.br/admin
 
 ### Como traduzir uma página?
 
-1. Nomei placeholders para os textos que precisam ser traduzidos em uma estrutura JSON
+1. Nomeie placeholders para os textos que precisam ser traduzidos em uma estrutura JSON
 2. No valor destes placeholders coloque os próprios textos em português 
 3. Copie a mesma estrutura JSON abaixo no próprio arquivo
 4. Traduza os valores
