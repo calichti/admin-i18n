@@ -9,7 +9,7 @@ Ex.: "en" indica para qual língua o português deva ser traduzido.
 Git:                     VTEX:
 admin -> site -> Anexo = https://{{accountname}}.vtexcommercestable.com.br/admin/Site/Anexo.aspx
 
-##Como traduzir uma página?
+### Como traduzir uma página?
 
 1 - Nomei placeholders para os textos que precisam ser traduzidos em uma estrutura JSON
 2 - No valor destes placeholders coloque os próprios textos em português 
@@ -20,7 +20,7 @@ Ex.:
 
 Git:                          VTEX:
 admin -> site -> Categories = https://{{accountname}}.vtexcommercestable.com.br/admin/Site/Categories.aspx
-
+~~~~
 {
 	"category-page":{
 		"title": "Categoria - Administração de Categorias",
@@ -37,7 +37,8 @@ admin -> site -> Categories = https://{{accountname}}.vtexcommercestable.com.br/
 		"category-id-zero": "Categorias"
 	}
 }
-
+~~~~
+~~~~
 {
 	"category-page":{
 		"title": "Category - Categories Management",
@@ -54,3 +55,4 @@ admin -> site -> Categories = https://{{accountname}}.vtexcommercestable.com.br/
 		"category-id-zero": "Categories"
 	}
 }
+~~~~
