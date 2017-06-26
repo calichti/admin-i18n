@@ -17,6 +17,11 @@ admin -> site -> Anexo = https://{{accountname}}.vtexcommercestable.com.br/admin
 3. Copie a mesma estrutura JSON abaixo no próprio arquivo
 4. Traduza os valores
 
+### Observação importante
+
+1. Copie o texto em português exatamente como está atualmente na plataforma
+2. Evite dentação no JSON
+
 Ex.:
 
 ~~~~
