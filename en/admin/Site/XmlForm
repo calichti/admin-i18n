@@ -11,7 +11,7 @@
 	}
 }
 {
-   "xmlform-page":{
+	"xmlform-page":{
 		"title": "Novo XML",
 		"breadcrumb-initial-page": "Página Inicial",
 		"breadcrumb-marketing": "marketing",
