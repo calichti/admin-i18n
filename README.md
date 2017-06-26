@@ -10,6 +10,11 @@ Git:                     VTEX:
 admin -> site -> Anexo = https://{{accountname}}.vtexcommercestable.com.br/admin/Site/Anexo.aspx
 ~~~~
 
+### Quero ajudar. Como eu faço?
+
+1. Escolha uma página para traduzir no project [Roadmap](https://github.com/vtex/admin-i18n/projects/1)
+2. Assign para você e dig in.
+
 ### Como traduzir uma página?
 
 1. Nomeie placeholders para os textos que precisam ser traduzidos em uma estrutura JSON
@@ -20,7 +25,7 @@ admin -> site -> Anexo = https://{{accountname}}.vtexcommercestable.com.br/admin
 ### Observação importante
 
 1. Copie o texto em português exatamente como está atualmente na plataforma
-2. Evite dentação no JSON
+2. Evite identação no JSON
 
 Ex.:
 
