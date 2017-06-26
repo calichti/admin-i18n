@@ -12,8 +12,8 @@ admin -> site -> Anexo = https://{{accountname}}.vtexcommercestable.com.br/admin
 
 ### Quero ajudar. Como eu faço?
 
-1. Escolha uma página para traduzir no project [Roadmap](https://github.com/vtex/admin-i18n/projects/1)
-2. Assign para você e dig in.
+1. Escolha uma página para traduzir no project [Roadmap](https://github.com/vtex/admin-i18n/projects/1), os primeiros cards da coluna Backlog são de maior prioridade
+2. Assign para você e dig in
 
 ### Como traduzir uma página?
 
