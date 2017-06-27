@@ -12,8 +12,11 @@ admin -> site -> Anexo = https://{{accountname}}.vtexcommercestable.com.br/admin
 
 ### Quero ajudar. Como eu faço?
 
-1. Escolha uma página para traduzir no project [Roadmap](https://github.com/vtex/admin-i18n/projects/1), os primeiros cards da coluna Backlog são de maior prioridade
-2. Assign para você e dig in
+1. Escolha um card para traduzir no project [Roadmap](https://github.com/vtex/admin-i18n/projects/1) na coluna Backlog Text Map
+*os primeiros cards são de maior prioridade e seus nomes possuem a mesma rota da página a qual irá traduzir*
+2. Assign para você
+3. Mova para a coluna "Doing Json"
+4. Após terminar de escrever o json em "pt" e em "en" mova o card para a coluna "Verify Json" 
 
 ### Como traduzir uma página?
 
