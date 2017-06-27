@@ -1,1 +1,32 @@
-
+{
+	"similar-category-page":{
+		"title": "Categoria similar de ",
+		"breadcrumb-initial-page": "Página Inicial",
+		"breadcrumb-content": "conteúdo",
+		"breadcrumb-categories": "categorias",
+        "breadcrumb-similar-categories": "categorias similares",
+        "button-new-similar-category": "Nova categoria similar",
+		"column-title-category": "Categoria",
+        "column-title-name": "Nome",
+        "column-title-edit": "Editar",
+        "button-edit": "Alterar",
+		"combobox-down-arrow-value-delete": "Excluir",
+ 		"button-back": "Voltar"
+	}
+}
+{
+	"similar-category-page":{
+		"title": "Similar category of ",
+		"breadcrumb-initial-page": "Home",
+		"breadcrumb-content": "content",
+		"breadcrumb-categories": "categories",
+        "breadcrumb-similar-categories": "similar categories",
+        "button-new-similar-category": "New similar category",
+		"column-title-category": "Category",
+        "column-title-name": "Name",
+        "column-title-edit": "Edit",
+        "button-edit": "Edit",
+		"combobox-down-arrow-value-delete": "Delete",
+ 		"button-back": "Back"
+	}
+}
