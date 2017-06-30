@@ -265,7 +265,7 @@
         "color":"Color",
         "size": "Size",
         "age": "Age",
-        "genre": "Genre",
+        "genre": "Gender",
         "add-open-tag-1": "+Open Tag 1",
         "add-open-tag-1-tooltip-text": "Free content tag. This tag will be repeated for each item. Eg.: date / author / any_ thing",
         "add-open-tag-2": "+Open Tag 2",
